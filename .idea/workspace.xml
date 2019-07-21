@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f496ef0-9fb0-4c84-8c3f-b711c4c0f64a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdminUI/AdminUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/2019-07-17-21-30-challenges/down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/2019-07-17-21-30-challenges/up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access_token.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/authorization.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/challenge.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/team.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webhooks.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/footer.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/layout.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/nav.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/2018-03-17-180012_heroes/up.sql" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/2018-03-17-180012_heroes/up.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hero.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/hero.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schema.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/schema.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/access_token.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="788">
               <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -160,6 +146,7 @@
         <option value="$PROJECT_DIR$/migrations/2019-07-20-085053_authorization/down.sql" />
         <option value="$PROJECT_DIR$/src/main.rs" />
         <option value="$PROJECT_DIR$/src/access_token.rs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -234,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563708121364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563708374699" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -307,12 +294,20 @@
       <updated>1563286776900</updated>
       <workItem from="1563286778807" duration="3993000" />
       <workItem from="1563370800701" duration="12000" />
-      <workItem from="1563383916591" duration="44974000" />
+      <workItem from="1563383916591" duration="45277000" />
     </task>
+    <task id="LOCAL-00001" summary="cds">
+      <created>1563708300998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563708300998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48979000" />
+    <option name="totallyTimeSpent" value="49282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3840" height="2094" extended-state="6" />
@@ -353,6 +348,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cds" />
+    <option name="LAST_COMMIT_MESSAGE" value="cds" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/migrations/2018-03-17-180012_heroes/down.sql">
@@ -541,6 +540,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="788">
           <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
