@@ -1,0 +1,22 @@
+{{#*inline "page"}}
+
+<section id="hello">
+  <h1>Hi {{ name }}!</h1>
+  <h3>Here are your items:</h3>
+  <ul>
+    {{#each items}}
+      <li>{{ this }}</li>
+    {{/each}}
+  </ul>
+</section>
+
+<section id="custom-helper">
+  <p>Try going to <a href="/hello/YourName">/hello/YourName</a>.</p>
+  <p>Also, check(custom helper) out!</p>
+</section>
+<section>
+<a href="https://slack.com/oauth/authorize?scope=incoming-webhook,commands,bot&client_id=156615507910.633430664976"><img alt=""Add to Slack"" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
+</section>
+
+{{/inline}}
+{{~> (parent)~}}
